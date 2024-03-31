@@ -1,0 +1,21 @@
+.link{
+    position: relative;
+    display: flex;
+    align-items: center;
+    
+    .indicator{
+        width: 10px;
+        height: 10px;
+        background-color: white;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        @media (min-width:550px) {
+            left: -30px;
+        }
+        @media (max-width:550px) {
+          right: 0;
+        }
+
+    }
+}

@@ -1,0 +1,25 @@
+.paragraph{
+    display: flex;
+    font-size: 30px;
+    line-height: 1;
+    width: 500px;
+    color: white;
+    flex-wrap: wrap;
+    position: relative;
+    bottom: 150px;
+    @media (max-width:991px) {
+        position: static;
+        width: auto;
+        font-size: 25px;
+    }
+    .word{
+      position: relative;
+      margin-right: 12px;
+      margin-top: 12px;
+      .shadow{
+        position: absolute;
+        opacity: 0.5;
+        text-transform: lowercase;
+      }
+    }
+  }
