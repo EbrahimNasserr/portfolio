@@ -58,6 +58,7 @@ export default function Work() {
                         height={400}
                         alt="image"
                         className=" bg-center bg-cover object-cover"
+                        loading="lazy"
                       />
                     </div>
                     <div className=" flex gap-3 flex-col">

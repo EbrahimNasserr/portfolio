@@ -60,7 +60,7 @@ const WorkCard = ({
                 className={styles.inner}
                 style={{ scale: imageScale }}
               >
-                <Image fill sizes="500" src={src} alt="image" />
+                <Image fill loading="lazy" sizes="500" src={src} alt="image" />
               </motion.div>
             </div>
           </div>

@@ -51,6 +51,7 @@ const AboutPage = () => {
               alt="about/img"
               width={500}
               height={500}
+              loading="lazy"
             />
           </div>
         </div>
