@@ -5,4 +5,7 @@
     font-size: 12px;
     gap: 40px;
     cursor: pointer;
+    @media (max-width:550px) {
+        gap: 0;
+    }
 }
