@@ -11,6 +11,19 @@
   color: var(--primary-color);
 }
 
+html::-webkit-scrollbar {
+  width: 7px;
+}
+
+html::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+html::-webkit-scrollbar-thumb {
+  border-radius: 50px;
+  background-color: var(--primary-color);
+}
+
 :root {
   --background-color: #0b0101;
   --primary-color: #fce8e9;
