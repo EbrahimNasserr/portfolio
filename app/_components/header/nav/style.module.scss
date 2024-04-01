@@ -20,7 +20,8 @@
         z-index: 500;
 
         @media screen and (max-width:550px) {
-            padding: 25px;
+            padding-right: 25px;
+            padding-left: 25px;
         }
 
         .nav{

@@ -122,7 +122,7 @@ export const WorkPageprojects = [
     },
     {
         title: "Crypto React App",
-        src: "/project2.png",
+        src: "/project2.PNG",
         color: "#8C8C8C",
         link: "https://crypto-react-app-alpha.vercel.app/",
     },
