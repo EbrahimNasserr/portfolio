@@ -15,10 +15,6 @@ html::-webkit-scrollbar {
   width: 7px;
 }
 
-html::-webkit-scrollbar-track {
-  background: transparent;
-}
-
 html::-webkit-scrollbar-thumb {
   border-radius: 50px;
   background-color: var(--primary-color);

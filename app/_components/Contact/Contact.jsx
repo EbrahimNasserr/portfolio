@@ -29,7 +29,7 @@ export default function Contact() {
                 loading="eager"
               />
             </div>
-            <h2>Lets work together</h2>
+            <h2>Let&apos;s work together</h2>
           </span>
           <motion.div style={{ x }} className={styles.buttonContainer}>
             <Magnetic>
