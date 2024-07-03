@@ -16,7 +16,7 @@ const Hero = () => {
         }}
         className=" text-[10vw] font-black"
       >
-        make it creativity
+        make it creative
       </h1>
       <BlurryCursor isActive={isActive} />
     </section>
