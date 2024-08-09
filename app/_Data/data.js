@@ -1,6 +1,21 @@
 export const projects = [
     {
         id: 1,
+        title: "IMDB Clone",
+        description: "IMDb clone built with Next.js, allowing users to browse movies, filter 2023 trends, view details, and search titles. Features include smooth animations, dark mode, and a dynamic carousel.",
+        tools: [
+            "Nextjs",
+            "Rtk-Query",
+            "RapidApi",
+            "Tailwind",
+            "FramerMotion",
+        ],
+        src: "/project5.png",
+        link: "https://movies-imdb-clone.vercel.app/",
+        color: "#111"
+    },
+    {
+        id: 2,
         title: "Nike Store Commerce",
         description: "E-Commerce Website. I Have Designed A Clean, Modern, And Intuitive Interface That Makes It Easy For Customers To Browse, Responsive Design That Adjusts To Any Device, The Shopping Cart System Is Integrated And Easy To Use. You Can Add, Remove And Clear The Shopping Cart.",
         tools: [
@@ -14,7 +29,7 @@ export const projects = [
         color: "#EF2C33"
     },
     {
-        id: 2,
+        id: 3,
         title: "Crypto React App",
         description: "This React project focuses on API training, specifically emphasizing the integration and utilization of various APIs. The primary objective of the project is to enhance your understanding and proficiency in working with API data, rather than emphasizing the user interface.",
         tools: [
@@ -28,7 +43,7 @@ export const projects = [
         color: "#977F6D"
     },
     {
-        id: 3,
+        id: 4,
         title: "Restaurant",
         description: "This website is built using HTML and CSS, demonstrating my proficiency in creating clean, modern, and user-friendly interfaces. The design is fully responsive, ensuring a seamless experience across various devices and screen sizes.",
         tools: [
@@ -114,6 +129,12 @@ export const slider2 = [
 
 
 export const WorkPageprojects = [
+    {
+        title: "IMDB Clone",
+        src: "/project5.png",
+        color: "#000000",
+        link: "https://movies-imdb-clone.vercel.app/",
+    },
     {
         title: "Nike Store Commerce",
         src: "/project1.png",

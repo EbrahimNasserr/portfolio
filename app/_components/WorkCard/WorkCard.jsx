@@ -43,7 +43,7 @@ const WorkCard = ({
           <div className={styles.body}>
             <div className={styles.description}>
               <p>{description}</p>
-              <div className=" gap-3 mt-3 flex text-base flex-row">
+              <div className=" gap-3 mt-3 flex text-base flex-row flex-wrap">
                 {tools.map((tol) => (
                   <p className=" line-clamp-1 text-base" key={tol}>
                     {tol}
