@@ -10,7 +10,7 @@ export const projects = [
             "Tailwind",
             "FramerMotion",
         ],
-        src: "/project5.png",
+        src: "/project5.PNG",
         link: "https://movies-imdb-clone.vercel.app/",
         color: "#111"
     },
@@ -131,7 +131,7 @@ export const slider2 = [
 export const WorkPageprojects = [
     {
         title: "IMDB Clone",
-        src: "/project5.png",
+        src: "/project5.PNG",
         color: "#000000",
         link: "https://movies-imdb-clone.vercel.app/",
     },
