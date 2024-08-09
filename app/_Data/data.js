@@ -2,7 +2,7 @@ export const projects = [
     {
         id: 1,
         title: "IMDB Clone",
-        description: "IMDb clone built with Next.js, allowing users to browse movies, filter 2023 trends, view details, and search titles. Features include smooth animations, dark mode, and a dynamic carousel.",
+        description: "IMDb clone, allowing users to browse movies, filter 2023 trends, view details, and search titles. Features include smooth animations, dark mode, and a dynamic carousel.",
         tools: [
             "Nextjs",
             "Rtk-Query",
@@ -16,8 +16,8 @@ export const projects = [
     },
     {
         id: 2,
-        title: "Nike Store Commerce",
-        description: "E-Commerce Website. I Have Designed A Clean, Modern, And Intuitive Interface That Makes It Easy For Customers To Browse, Responsive Design That Adjusts To Any Device, The Shopping Cart System Is Integrated And Easy To Use. You Can Add, Remove And Clear The Shopping Cart.",
+        title: "Nike Store",
+        description: "E-Commerce Website, The Shopping Cart System Is Integrated And Easy To Use. You Can Add, Remove And Clear The Shopping Cart.",
         tools: [
             "React.js",
             "ReduxToolkit",
@@ -31,7 +31,7 @@ export const projects = [
     {
         id: 3,
         title: "Crypto React App",
-        description: "This React project focuses on API training, specifically emphasizing the integration and utilization of various APIs. The primary objective of the project is to enhance your understanding and proficiency in working with API data, rather than emphasizing the user interface.",
+        description: "This React project focuses on API training, The primary objective of the project is to enhance my understanding and proficiency in working with API data.",
         tools: [
             "React.js",
             "chartjs",
