@@ -25,7 +25,7 @@ export default function Contact() {
                 width={300}
                 height={300}
                 alt={"image"}
-                src={`/profile.jpg`}
+                src={`/profile.webp`}
                 loading="eager"
               />
             </div>

@@ -46,7 +46,7 @@ const AboutPage = () => {
           <Character />
           <div>
             <Image
-              src="/intro.png"
+              src="/intro.webp"
               className=" bg-center"
               alt="about/img"
               width={500}

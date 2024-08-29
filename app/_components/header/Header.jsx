@@ -9,7 +9,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import Magnetic from "../../_common/Magnetic/Magnetic";
 import Rounded from "@/app/_common/RoundedButton/Rounded";
 import Image from "next/image";
-import logo from "/public/logo.png";
+import logo from "/public/logo.webp";
 import Link from "next/link";
 import TransitionLink from "../TransitionLink/TransitionLink";
 
