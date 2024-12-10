@@ -54,8 +54,10 @@ export default function Work() {
                     >
                       <Image
                         src={project.src}
-                        width={400}
-                        height={400}
+                        sizes="(max-width: 768px) 100vw, 50vw"
+                        layout="responsive"
+                        width={1000}
+                        height={500}
                         alt="image"
                         className=" bg-center bg-cover object-cover"
                         loading="lazy"
