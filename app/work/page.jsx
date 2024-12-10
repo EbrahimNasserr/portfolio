@@ -52,7 +52,7 @@ export default function Work() {
                       className=" w-full p-5 h-[400px] flex justify-center items-center mb-3"
                       style={{ backgroundColor: project.color }}
                     >
-                      <img
+                      <Image
                         src={project.src}
                         sizes="(max-width: 768px) 100vw, 50vw"
                         layout="responsive"
